@@ -5,7 +5,7 @@
 SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://krajput96:cs336proj@whatshouldieat.c8rryuxgrrfa.us-east-1.rds.amazonaws.com:3306/whatshouldieat'
 
 # Uncomment the line below if you want to work with a local DB
-SQLALCHEMY_DATABASE_URI = 'sqlite:///test.db'
+#SQLALCHEMY_DATABASE_URI = 'sqlite:///test.db'
 
 SQLALCHEMY_POOL_RECYCLE = 3600
 
