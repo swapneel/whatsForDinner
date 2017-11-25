@@ -5,23 +5,23 @@ Link: http://cs336finalsrecipe.us-east-1.elasticbeanstalk.com
 
 Table Of Contents 
 
-1. Setting up Application Locally
-2. Core Functionality
-3. Key Features
-4. Future ambitions 
+	Setting up Application Locally
+	Core Functionality
+	Key Features
+	Future ambitions 
 
 
 1. Setting up Application Locally
 
-	1. Git clone repository: https://github.com/krajput96/336finalproj
+	-  Git clone repository: https://github.com/krajput96/336finalproj
 
-	2. Create Virtual Environment: virtualenv my-app
+	-  Create Virtual Environment: virtualenv my-app
 
-	3. Source my-app/bin/activate
+	-  Source my-app/bin/activate
 
-	4. Remove "host = '0.0.0.0'" from application.run()
+	-  Remove "host = '0.0.0.0'" from application.run()
 
-	5. python application.py
+	-  python application.py
 
 2. Core Functionality
 	
