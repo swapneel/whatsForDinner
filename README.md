@@ -46,7 +46,8 @@ Table Of Contents
 	One key feature is, on the recipes description page, we not only give details
 	on making the recipe, but also on where to buy the missing ingredients, and 
 	especially on how to navigate to that particular store (using MapQuest API). 
-	Currently we have provided the addresses of the target store, but can modulate	      starting location, and generate new instructions accordingly. 
+	Currently we have provided the addresses of the target store, but can modulate	      
+	starting location, and generate new instructions accordingly. 
 
 	Another key feature we have is informative graphs on the recipes which are 
 	currently used to display patterns and trends in data, but can be adapted to
