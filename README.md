@@ -3,6 +3,8 @@ Read Me:
 
 Link: http://cs336finalsrecipe.us-east-1.elasticbeanstalk.com
 
+Flask Template: https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80
+
 Table Of Contents 
 
 	Setting up Application Locally
@@ -13,7 +15,7 @@ Table Of Contents
 
 1. Setting up Application Locally
 
-	-  Git clone repository: https://github.com/krajput96/336finalproj
+	-  Git clone repository: https://github.com/swapneel/whatsForDinner
 
 	-  Create Virtual Environment: virtualenv my-app
 
